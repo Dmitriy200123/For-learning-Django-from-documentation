@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/../djangoMysite/main.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoProjectMysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProjectMysite/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598855831779</updated>
-      <workItem from="1598855885638" duration="2248000" />
+      <workItem from="1598855885638" duration="3702000" />
     </task>
     <servers />
   </component>
@@ -83,21 +82,21 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="916" height="279" key="GridCell.Tab.0.bottom" timestamp="1598856460821">
+    <state width="916" height="279" key="GridCell.Tab.0.bottom" timestamp="1598859592988">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598856460821" />
-    <state width="916" height="279" key="GridCell.Tab.0.center" timestamp="1598856460820">
+    <state width="916" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598859592988" />
+    <state width="916" height="279" key="GridCell.Tab.0.center" timestamp="1598859592988">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598856460820" />
-    <state width="916" height="279" key="GridCell.Tab.0.left" timestamp="1598856460820">
+    <state width="916" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598859592988" />
+    <state width="916" height="279" key="GridCell.Tab.0.left" timestamp="1598859592988">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598856460820" />
-    <state width="916" height="279" key="GridCell.Tab.0.right" timestamp="1598856460820">
+    <state width="916" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598859592988" />
+    <state width="916" height="279" key="GridCell.Tab.0.right" timestamp="1598859592988">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="916" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598856460820" />
+    <state width="916" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598859592988" />
   </component>
 </project>
